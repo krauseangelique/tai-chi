@@ -1,0 +1,14 @@
+/* le css commun à toutes les pages */
+body{
+	background-color: snow;
+	color: steelBlue;
+	font-size: 1rem;
+	font-family: arial, sans-serif;
+}
+
+/* css page ACCUEIL */
+
+p{
+	color: springGreen;
+}
+
